@@ -1,5 +1,6 @@
 public class Task12 {
     public static void main(String[] args) {
+        // Задания 1 и 2
         String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
