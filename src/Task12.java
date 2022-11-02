@@ -1,4 +1,4 @@
-public class Task1 {
+public class Task12 {
     public static void main(String[] args) {
         String firstName = "Ivan";
         String middleName = "Ivanovich";
